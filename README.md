@@ -35,7 +35,9 @@ Analyzing Data Through Visualization:
          * Subsetting by Months and identifying the state with the highest labor participation rate.
 
 Identifying Outliers:
+
 Boxplots showing outliers for Estimated Employed People, Estimated Unemployment Rate (%), and Estimated Labor Participation Rate (%), grouped by states.
 
 Conclusion:
+
 The visualizations and data analysis help identify states with high unemployment rates, high employment, and high labor participation rates during specific months. 
