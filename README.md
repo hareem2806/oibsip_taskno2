@@ -25,14 +25,14 @@ Visualizing Data:
 
 Analyzing Data Through Visualization:
    - Visualizing Unemployment Rate:
-         * Average Unemployment Rate by Month
-         * Subsetting by Months and identifying the state with the highest unemployment rate.
+          Average Unemployment Rate by Month,
+          Subsetting by Months and identifying the state with the highest unemployment rate.
   - Visualizing Estimation of Employed People:
-         * Average Employed People by Month
-         * Subsetting by Months and identifying the state with the highest employment.
+          Average Employed People by Month,
+          Subsetting by Months and identifying the state with the highest employment.
   - Visualizing Estimated Labor Participation Rate:
-         * Average Labor Participation Rate by Month
-         * Subsetting by Months and identifying the state with the highest labor participation rate.
+          Average Labor Participation Rate by Month,
+          Subsetting by Months and identifying the state with the highest labor participation rate.
 
 Identifying Outliers:
 
